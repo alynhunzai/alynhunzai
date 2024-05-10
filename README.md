@@ -2,7 +2,7 @@
 
 
 <img src="/Data%20Science%20Wallpaper%20,%20(54+)%20Pictures.jpeg" width=735 height=413 style="display: block; margin-left: auto; margin-right: auto;" alt="profile-bg-image">
-<p align="center"> Hi 👋, I'm Noor Ali, an aspiring Data Scientist and Machine Learning Engineer. I am passionate about solving real-world problems using data. I have experience in building machine learning models, data analysis, and data visualization. I am always eager to learn new things and explore new technologies. </p> 
+<p> Hi 👋, I'm Noor Ali, an aspiring Data Scientist and Machine Learning Engineer. I am passionate about solving real-world problems using data. I have experience in building machine learning models, data analysis, and data visualization. I am always eager to learn new things and explore new technologies. </p> 
 
   * 🔭 I’m currently working on machine learning projects
   * 🌱 I’m currently learning NLP
