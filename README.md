@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, welcome! 👋</h3>
 
 <div style="text-align: center">
-<img src="/Data%20Science%20Wallpaper%20,%20(54+)%20Pictures.jpeg" style=" display: block; margin-left: auto; margin-right: auto;width: 100%" alt="profile-bg-image">
+<img src="/Data%20Science%20Wallpaper%20,%20(54+)%20Pictures.jpeg" style=" display: block; margin-left: auto; margin-right: auto;width: 100%;height: 450px;border-radius: 20px" alt="profile-bg-image">
 </div>
 
 <p style="text-align: center"> Hi 👋, I'm Noor Ali, an aspiring Data Scientist and Machine Learning Engineer. I am passionate about solving real-world problems using data. I have experience in building machine learning models, data analysis, and data visualization. I am always eager to learn new things and explore new technologies. </p> 
