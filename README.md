@@ -12,11 +12,12 @@
   * 📫 How to reach me: alynhunzai @ LinkedIn/GitHub
   * 😄 Pronouns: He/Him
   * ⚡ Fun fact: I love science fiction
-  * 📝[Resume](https://pern-my.sharepoint.com/:b:/g/personal/04112014007_student_qau_edu_pk/EUMqVoCYwS1DiwlSW4ewo6gBgx5D0tlWEaShrJsPmUEYjw?e=UWZfCc)
-
-<a href="https://www.linkedin.com/in/alynhunz/">
+  * 📝 <a href="https://pern-my.sharepoint.com/:b:/g/personal/04112014007_student_qau_edu_pk/EUMqVoCYwS1DiwlSW4ewo6gBgx5D0tlWEaShrJsPmUEYjw?e=UWZfCc" target="_blank">Resume</a>
+<div style="text-align: center">
+<a href="https://www.linkedin.com/in/alynhunz/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
 </a>
-<a href="https://github.com/alynhunzai">
+<a href="https://github.com/alynhunzai" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub">
 </a>
+</div>
